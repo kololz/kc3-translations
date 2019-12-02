@@ -387,7 +387,7 @@
 	"SettingsPoiDBSubmission" :"Отправка данных на poi-statistics (http://db.kcwiki.moe/)",
 	"SettingsEnablePoiDBSubmission" : "Включить функцию",
 	
-	"SettingsOpenDBSubmission" :"Отправка данных на Kancolle OpenDB (http://swaytwig.com/opendb/)",
+	"SettingsOpenDBSubmission" :"Отправка данных на Kancolle OpenDB (http://opendb.swaytwig.com/)",
 	"SettingsEnableOpenDBSubmission" : "Включить функцию",
 	
 	"SettingsKC3DBSubmission" :"Отправка данных KC3改 (http://kc3.jetri.co)",
@@ -788,7 +788,7 @@
 	"DesktopNotifyConstrCompleteMessageUnknown" : "Новая канмусу готова встретиться с вами в строительных доках!",
 	"DesktopNotifyMoraleTitle" : "Настроение флота восстановлено!",
 	"DesktopNotifyMoraleMessage" : "Девушки \"выбранного флота\" готовы идти в бой.",
-	"DesktopNotifyQuestsSyncTitle" : "Cинхронизированы квестов!",
+	"DesktopNotifyQuestsSyncTitle" : "Синхронизация квестов завершена!",
 	"DesktopNotifyQuestsSyncMessage" : "Квесты и их прогресс обновлены\nДанные от {0}",
 	
 	"NewsfeedRepair"    : "Ремонт завершён.",
